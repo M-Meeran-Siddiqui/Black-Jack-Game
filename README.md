@@ -1,21 +1,34 @@
-# co6f14249b468fa5fdd02f1f5
+# 🃏 BlackJack Game  
+![Page](assets/ProjectPreview/page.png)  
 
-Quick start:
+## 📌 Project Overview  
+This project is a **fun and interactive BlackJack Game** built using **HTML, CSS, and JavaScript**. The goal is to simulate a simple version of the popular card game BlackJack where players can test their luck and practice basic gaming strategies.  
 
-```
-$ npm install
-$ npm start
-````
+## ✨ Features  
+✅ **Card Dealing** – Draw cards with a click of a button  
+✅ **Winner Detection** – Automatically determine the winner based on the BlackJack rules  
+✅ **Score Tracking** – Keeps track of wins, losses, and draws  
+✅ **Responsive Design** – Works perfectly across all devices  
+✅ **Simple UI** – Clean and intuitive interface for smooth gameplay  
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## 🔧 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Upcoming Features  
+🔹 **Local Storage Integration** – Save game progress even after page reload  
+🔹 **Multiple Players** – Add an option for multiplayer gaming  
+🔹 **Sound Effects** – Enhance the gaming experience with audio feedback  
+🔹 **Difficulty Levels** – Add different difficulty modes  
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 📽️ Project Demo  
+### 🎥 Watch on YouTube  
+[![Watch the Video](https://img.youtube.com/vi/7EhqTRT3G2A/0.jpg)](https://youtu.be/7EhqTRT3G2A)  
 
-Happy Coding!
+## 📂 Installation & Usage  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/M-Meeran-Siddiqui/Black-Jack-Game.git
+   ```
+
+2. Open `index.html` in your browser to play the game.
+
